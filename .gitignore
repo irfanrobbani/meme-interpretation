@@ -1,0 +1,18 @@
+# Environment variables
+.env
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Results and output files
+*.csv
+!Data/New230SHEETS.csv
+
+# OS files
+.DS_Store
+Thumbs.db

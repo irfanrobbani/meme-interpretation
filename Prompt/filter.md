@@ -12,7 +12,7 @@ You are a master of identifying offensive meme especially for Indonesian languag
 ### Pornographic Content Reference
 •⁠  ⁠Image that include a little kid and bunch of older people (i.e., 5 man with 1 little girl)
 •⁠  ⁠Memes may use slang, metaphor, double entendre, or coded phrases to refer to sexual or pornographic content (i.e., Egg use for refering a woman chest)
-•⁠  ⁠Explicitly use pornographic word (i.e., Kontol, memek, fap, coli, sex, ngewe/ngeue, ngentod, etc.)
+•⁠  ⁠Explicitly use pornographic word (i.e., Kontol, memek, fap, coli, sex, ngewe, ngeue, ngentod, titit, etc.)
 
 ## Example
 
